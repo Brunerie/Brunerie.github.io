@@ -12,3 +12,21 @@
   width: 600px;
   height: 100%;
 }
+
+@media only screen and (max-width: 480px) {
+  .text-content{
+    width: 85%;
+    margin: auto;
+    color: #333333;
+  }
+
+  .img_mobil_home {
+    width: 100%;
+    height: 100%;
+  }
+
+  .img_camping {
+    width: 100%;
+    height: 100%;
+  }
+}
